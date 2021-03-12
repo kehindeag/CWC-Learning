@@ -8,6 +8,6 @@
 import Foundation
 
 struct MyModel {
-    var myModel:String?
+    var myModel:String = "KehindeAgboola"
     
 }
